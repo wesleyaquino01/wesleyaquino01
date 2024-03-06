@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=wesleyaquino01)
 
-<p align="center"> Hi, my name is Wesley, I'm a computer science student and beginner programmer.</p>
+<p align="center"> Hello, my name is Wesley, I have a degree in computer science and I love programming.</p>
   
 <h3 align="center"> Favourites tools: </h3>
 
